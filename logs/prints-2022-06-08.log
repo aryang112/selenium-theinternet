@@ -1,0 +1,8 @@
+16:28:23.139 [main] INFO  resources.Base - Driver initialized
+16:28:25.093 [main] INFO  resources.Base - Add Elements Test Passed
+16:28:25.458 [main] INFO  resources.Base - Delete Elements Test Passed
+16:28:25.496 [main] INFO  resources.Base - Driver closed
+17:53:14.089 [main] INFO  resources.Base - Driver initialized
+17:53:14.389 [main] INFO  resources.Base - Add Elements Test Passed
+17:53:14.747 [main] INFO  resources.Base - Delete Elements Test Passed
+17:53:14.786 [main] INFO  resources.Base - Driver closed

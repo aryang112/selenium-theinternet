@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Internet Herokuapp Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="TheInternet.SeleniumTrial.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="TheInternet.SeleniumTrial.BasicAuthTests">
+        <methods>
+          <include name="VerifyBasicAuthMessage"/>
+          <include name="Teardown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- TheInternet.SeleniumTrial.BasicAuthTests -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Internet Herokuapp Suite] -->

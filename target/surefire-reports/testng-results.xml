@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Internet Herokuapp Suite" duration-ms="5106" started-at="2022-04-19T19:11:19Z" finished-at="2022-04-19T19:11:24Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="5106" started-at="2022-04-19T19:11:19Z" finished-at="2022-04-19T19:11:24Z">
+      <class name="TheInternet.SeleniumTrial.BasicAuthTests">
+        <test-method status="PASS" signature="VerifyBasicAuthMessage()[pri:0, instance:TheInternet.SeleniumTrial.BasicAuthTests@1ed6388a]" name="VerifyBasicAuthMessage" duration-ms="622" started-at="2022-04-19T19:11:22Z" finished-at="2022-04-19T19:11:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyBasicAuthMessage -->
+      </class> <!-- TheInternet.SeleniumTrial.BasicAuthTests -->
+      <class name="TheInternet.SeleniumTrial.AddRemoveElements">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:TheInternet.SeleniumTrial.AddRemoveElements@5a45133e]" name="initialize" is-config="true" duration-ms="2075" started-at="2022-04-19T19:11:19Z" finished-at="2022-04-19T19:11:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:TheInternet.SeleniumTrial.BasicAuthTests@1ed6388a]" name="initialize" is-config="true" duration-ms="1211" started-at="2022-04-19T19:11:21Z" finished-at="2022-04-19T19:11:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="VerifyAddElementOnPage()[pri:0, instance:TheInternet.SeleniumTrial.AddRemoveElements@5a45133e]" name="VerifyAddElementOnPage" duration-ms="484" started-at="2022-04-19T19:11:23Z" finished-at="2022-04-19T19:11:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyAddElementOnPage -->
+        <test-method status="PASS" signature="VerifyRemoveElementOnPage()[pri:0, instance:TheInternet.SeleniumTrial.AddRemoveElements@5a45133e]" name="VerifyRemoveElementOnPage" duration-ms="551" started-at="2022-04-19T19:11:23Z" finished-at="2022-04-19T19:11:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyRemoveElementOnPage -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:TheInternet.SeleniumTrial.AddRemoveElements@5a45133e]" name="Teardown" is-config="true" duration-ms="81" started-at="2022-04-19T19:11:24Z" finished-at="2022-04-19T19:11:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:TheInternet.SeleniumTrial.BasicAuthTests@1ed6388a]" name="Teardown" is-config="true" duration-ms="50" started-at="2022-04-19T19:11:24Z" finished-at="2022-04-19T19:11:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- TheInternet.SeleniumTrial.AddRemoveElements -->
+    </test> <!-- Test -->
+  </suite> <!-- Internet Herokuapp Suite -->
+</testng-results>
